@@ -2,7 +2,7 @@
 
 ### Estudante de Análise e Desenvolvimento de Sistemas 5/5 
 <b>
-<p>-São Paulo<p>
+
 
  [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-santos-b06a9117b/)
 <b>
