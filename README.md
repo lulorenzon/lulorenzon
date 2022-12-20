@@ -2,4 +2,4 @@
 
 ### Estudante de Análise e Desenvolvimento de Sistemas 5/5 São Paulo
 
-<img src="https://i.pinimg.com/736x/b2/2e/ea/b22eea167950645f72475f35ee75179e.jpg" line-height="34px" > </img> 
+<img src="https://amplificadigital.com.br/wp-content/uploads/2019/12/amplifica_banner_blog_programaccca7acc83o.jpg" width="200" > </img> 
