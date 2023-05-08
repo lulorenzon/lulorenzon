@@ -1,6 +1,6 @@
 
 
-### Estudante de Análise e Desenvolvimento de Sistemas 5/5 
+### Estudante de Análise e Desenvolvimento de Sistemas 4/5 
 <br>
 
 <div align="center" justify-content:"center" display:"flex">
